@@ -10,7 +10,7 @@ export default function Dashboard() {
       <Sidebar />
 
        {/* Welcome Section */}
-       <div className="flex-1 flex flex-col">
+       <div className="flexflex-col">
         <div className="mt-20 px-6">
           <Welcome />
         </div>

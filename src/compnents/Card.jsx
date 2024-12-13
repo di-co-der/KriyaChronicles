@@ -12,7 +12,7 @@ export default function Card() {
   ];
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-6 px-4">
+    <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6 px-4">
       {[
         { title: "Notice", description: "View all your notices" },
         { title: "Apply for Leave", description: "Apply for leave here" },
